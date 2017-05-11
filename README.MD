@@ -8,3 +8,5 @@ Own version is to be implemented.
 - [jsSHA](https://github.com/Caligatio/jsSHA)
 
 - [Jdenticon](https://jdenticon.com/) (temporal)
+
+-[PNGLib](http://www.xarg.org/download/pnglib.js)
