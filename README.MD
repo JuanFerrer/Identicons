@@ -9,4 +9,4 @@ Own version is to be implemented.
 
 - [Identicon](https://github.com/stewartlord/identicon.js)
 
--[PNGLib](http://www.xarg.org/download/pnglib.js)
+- [PNGLib](http://www.xarg.org/download/pnglib.js)
