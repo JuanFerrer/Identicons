@@ -1,4 +1,4 @@
-The idea is to experiment with Identicon creation. For now, I'm using Jdenticon to test the SHA and design the webpage.
+The idea is to experiment with Identicon creation. For now, I'm using Identicon as a base.
 Own version is to be implemented.
 
 
@@ -7,6 +7,6 @@ Own version is to be implemented.
 
 - [jsSHA](https://github.com/Caligatio/jsSHA)
 
-- [Jdenticon](https://jdenticon.com/) (temporal)
+- [Identicon](https://github.com/stewartlord/identicon.js)
 
 -[PNGLib](http://www.xarg.org/download/pnglib.js)
